@@ -2,4 +2,3 @@ tomato
 potato
 onion
 avocado
-cilantro
